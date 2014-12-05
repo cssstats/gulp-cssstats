@@ -6,7 +6,7 @@
   "author": "Brent Jackson",
   "license": "MIT",
   "dependencies": {
-    "css-statistics": "0.0.1",
+    "css-statistics": "latest",
     "through2": "^0.6.3"
   },
   "repository": {
