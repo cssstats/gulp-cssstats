@@ -1,7 +1,7 @@
 
 var path = require('path');
 var through = require('through2');
-var cssstats = require('css-statistics');
+var cssstats = require('cssstats');
 
 module.exports = function(options) {
 

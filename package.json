@@ -1,20 +1,20 @@
 {
-  "name": "gulp-css-statistics",
+  "name": "gulp-cssstats",
   "version": "0.0.2",
-  "description": "",
+  "description": "Gulp plugin for CSS Stats",
   "main": "index.js",
   "author": "Brent Jackson",
   "license": "MIT",
   "dependencies": {
-    "css-statistics": "latest",
+    "cssstats": "latest",
     "through2": "^0.6.3"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jxnblk/gulp-css-statistics.git"
+    "url": "https://github.com/jxnblk/gulp-cssstats.git"
   },
   "bugs": {
-    "url": "https://github.com/jxnblk/gulp-css-statistics/issues"
+    "url": "https://github.com/jxnblk/gulp-cssstats/issues"
   },
-  "homepage": "https://github.com/jxnblk/gulp-css-statistics"
+  "homepage": "https://github.com/jxnblk/gulp-cssstats"
 }
