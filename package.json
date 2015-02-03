@@ -1,6 +1,6 @@
 {
   "name": "gulp-cssstats",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gulp plugin for CSS Stats",
   "main": "index.js",
   "author": "Brent Jackson",
