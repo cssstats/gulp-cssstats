@@ -12,7 +12,7 @@ module.exports = function(options) {
     if (!file.isBuffer()) callback();
 
     var src = file.contents.toString();
-    var obj = cssstats(src);
+    var obj = cssstats(src, options);
 
     file.contents = new Buffer(JSON.stringify(obj, null, 2));
 
