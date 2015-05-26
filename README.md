@@ -6,7 +6,7 @@ Gulp plugin version of http://cssstats.com
 
 ```js
 var gulp = require('gulp');
-var basswork = require('gulp-cssstats');
+var cssstats = require('gulp-cssstats');
 
 gulp.task('cssstats', function() {
   gulp.src('./base.css')
