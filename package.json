@@ -2,13 +2,16 @@
   "name": "gulp-cssstats",
   "version": "1.0.1",
   "description": "Gulp plugin for CSS Stats",
+  "keywords":["css", "stats", "selectors", "rules", "cssstats.com"],
+  "contributors":[],
   "main": "index.js",
   "author": "Brent Jackson",
   "license": "MIT",
   "dependencies": {
-    "cssstats": "latest",
+    "cssstats": "*",
     "through2": "^0.6.3"
   },
+  "engines":{},
   "repository": {
     "type": "git",
     "url": "https://github.com/jxnblk/gulp-cssstats.git"
